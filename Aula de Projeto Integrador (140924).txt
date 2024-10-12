@@ -1,0 +1,57 @@
+Aula de Projeto Integrador (14/09/24)
+
+Necessário ser feito no GitHub (entrega através de links)
+
+Primeira Entrega - 19/10/2024
+
+Já esta no sistema o que é necessário (Material Disponível no TEAMS)
+
+Regras
+ - Cada grupo precisa criar um repositório único no GITHUB (README - Com resumo do projeto)
+ - PDF com Entregas Interdisciplinares 
+	;(Negócios e Organizações)
+	;(Produção de Texto)
+	;(Algoritmos e Estrutura)
+	;(Comportamento)
+	;(Matemática)
+
+** Dica: UFSC More (Mecanismo online para elaboração de referência e citação) Como elaborar referência a Livros.
+
+Dia (28/09/24) - professor vai verificar o andamento dos trabalhos.
+
+Segunda Parte Aula (Gestão de Projetos)
+
+Introdução à gestão de Projetos (Método KANBAN)
+
+	-Visual 
+	-Fluxo Contínuo
+	-Trabalho em Andamento
+	-Adaptação
+
+Por que o KANBAN? - Melhor Eficiência; Transparência Total; Adaptação; Grupo;
+
+Desenho: 
+	-Movimento das tarefas em colunas(Subtarefas); 
+	-Em andamento (Definir as Datas de entrega); 
+	-Em revisão; 
+	-Concluído; 
+
+Aonde Fazer? (Sugestão Trello) - Modelo Intuitivo
+
+Terceira Parate - Aula pratica sobre Trello
+
+** Email deste Cartão: Envia arquivos direto para o quadro.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
